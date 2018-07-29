@@ -1,2 +1,2 @@
-# Bus-management-System-project
+# Bus-Ticket-management-System-project
 using Java
